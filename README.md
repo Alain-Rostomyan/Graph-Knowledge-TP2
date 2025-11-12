@@ -99,10 +99,11 @@ Before you begin, ensure you have:
 
 ## 🚀 Quick Start
 
-### 1. Clone and Navigate to Project
+### 1. Clone the Repository
 
 ```bash
-cd "c:\Users\jerem\Desktop\Other\University\ESSEC & CentraleSupélec\Year 3\Semester 1\Graph Theory\TP2"
+git clone https://github.com/Alain-Rostomyan/Graph-Knowledge-TP2.git
+cd Graph-Knowledge-TP2
 ```
 
 ### 2. Start the Stack

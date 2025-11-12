@@ -1,0 +1,2 @@
+# This file ensures the neo4j directory structure exists in git
+# The data/ subdirectory will be created by Docker
